@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.defaultLocation": "view",
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "task.allowAutomaticTasks": "on"
+}
